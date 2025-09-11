@@ -58,7 +58,9 @@
   <a href="mailto:yteixeira@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="50" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/yuri-dias-teixeira-39b032384/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
+  </a>  
   <a href="https://www.twitch.tv/fumabare7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="50" alt="twitch logo"  />
   </a>
